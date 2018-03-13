@@ -1,5 +1,6 @@
 WorkShop
-
+Clone this repo and run ### `npm install`
+then run ### `npm start` for start the environment in [http://localhost:3000](http://localhost:3000)
 
 How its seems:
 ![Example](https://github.com/eibertek/eatapalooza/blob/master/Example.jpg)
