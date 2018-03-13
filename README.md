@@ -2,7 +2,7 @@ WorkShop
 
 
 How its seems:
-![Example](https://octodex.github.com/images/yaktocat.png)
+![Example](https://github.com/eibertek/eatapalooza/blob/master/Example.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
